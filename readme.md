@@ -6,6 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## 项目说明 
+  基于Laravel框架开发的明星关系CMS,只提供相关资料,不提供播放,暂定用户模块,电影模块,电视剧模块,电视剧剧情,演员主页专题,导演主页专题,采集模块,广告管理模块,友情链接等!
 
 ## About Laravel
 
